@@ -1,0 +1,11 @@
+Page # 579 to 587, Chapter: Requesting Permissions from The Busy
+Coder's Guide to Android Development, Final Version by Mark L. Murphy,
+2019
+
+• User Guide: https://developer.android.com/guide/topics/permissions/overview
+
+Page # 589 to 606, Chapter: Requesting Permissions from The Busy
+Coder's Guide to Android Development, Final Version by Mark L. Murphy,
+2019
+
+• User Guide: https://developer.android.com/guide/topics/permissions/overview

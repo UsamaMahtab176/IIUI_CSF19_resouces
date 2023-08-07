@@ -1,0 +1,7 @@
+Page # 157 to 180, Chapter 08: Displaying Lists with RecyclerView from
+Android Programming: The Big Nerd Ranch Guide, 3rd Edition by Bill
+Phillips, 2017
+
+Page # 181 to 204, Chapter 09: Creating User Interfaces with Layouts and
+Widgets from Android Programming: The Big Nerd Ranch Guide, 3rd
+Edition by Bill Phillips, 2017

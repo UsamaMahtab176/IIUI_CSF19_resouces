@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+
+/*
+this program adds two numbers
+*/
+
+
+//main method
+int main() {
+
+  int first_number, second_number, sum; // integers
+
+  cout << "Enter two integers: "; //output
+  cin >> first_number >> second_number; //input
+
+  sum = first_number + second_number; //sum of two numbers
+
+  cout << first_number << " + " <<  second_number << " = " << sum;     //print out sum
+
+  return 0;
+}

@@ -1,0 +1,45 @@
+Algorithm: insertion
+(* HEAD: stores the address of first node of the singly linked list
+    CUR,PREV,NEWNODE: pointer variables
+    Assumption: data stored in the linked list is in Ascending order *)
+
+1. // create a new node
+    NEWNODE = new node
+    Read NEWNODE->data
+    NEWNODE->next = NULL
+2. // check whether linked list exists or not
+    IF (HEAD == NULL)
+        Display "List not exists"
+        RETURN
+    ENDIF
+3. // insertion starts
+    FLAG = FALSE // boolean variable
+    CUR = PREV = HEAD
+    IF (NEWNODE->data <= HEAD->data)   // insertion will be done at the start of the linked list
+        NEWNODE->next = CUR
+        HEAD = NEWNODE
+     ELSE
+        // if insertion is to be done in middle or at the end
+     While (CUR <> NULL)
+        IF (CUR->data <= NEWNODE->data)
+             PREV=CUR
+         ELSE
+              PREV-next = NEWNODE
+              NEWNODE->next = CUR
+              FLAG = TRUE
+              BREAK   // exit the loop
+         ENDIF
+         CUR=CUR->next
+      ENDWHILE
+4. // insertion at end
+    IF (CUR == NULL) AND (FLAG <> TRUE)
+        PREV->next = NEWNODE
+        FLAG = TRUE
+    ENDIF
+5. END
+
+
+
+
+
+

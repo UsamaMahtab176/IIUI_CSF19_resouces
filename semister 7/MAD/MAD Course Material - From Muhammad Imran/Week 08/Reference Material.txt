@@ -1,0 +1,10 @@
+Page # 75 to 92, Chapter # 03: Activities, Fragments, and Intents from
+Beginning Android Programming with Android Studio, 4th Edition by J. F.
+DiMarzio, Wrox, 2017
+• Page # 94 to 98, Chapter # 03: Activities, Fragments, and Intents from
+Beginning Android Programming with Android Studio, 4th Edition by J. F.
+DiMarzio, Wrox, 2017
+• User Guide: https://developer.android.com/training/notify-user/build-
+notification
+• Creating and Using Fragments at
+https://guides.codepath.com/android/creating-and-using-fragments

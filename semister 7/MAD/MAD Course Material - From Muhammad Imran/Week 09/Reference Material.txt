@@ -1,0 +1,15 @@
+Page # 313 to 323, Chapter: Dependencies from The Busy Coder's Guide
+to Android Development, Final Version by Mark L. Murphy, 2019
+
+• User Guide: https://developer.android.com/studio/build
+
+Page # 313 to 323, Chapter: Dependencies from The Busy Coder's Guide
+to Android Development, Final Version by Mark L. Murphy, 2019
+
+• Page # 94 to 98, Chapter # 03: Activities, Fragments, and Intents from
+Beginning Android Programming with Android Studio, 4th Edition by J. F.
+DiMarzio, Wrox, 2017
+• User Guide: https://developer.android.com/training/notify-user/build-
+notification
+• Creating and Using Fragments at
+https://guides.codepath.com/android/creating-and-using-fragments

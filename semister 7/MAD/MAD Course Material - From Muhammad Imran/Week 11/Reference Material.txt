@@ -1,0 +1,3 @@
+Page # 123 to 156, Chapter 07: UI Fragments and the Fragment Manager
+from Android Programming: The Big Nerd Ranch Guide, 3rd Edition by Bill
+Phillips, 2017
